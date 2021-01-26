@@ -6,7 +6,7 @@ Downloading the source code will download the latest version for the survival mo
 We also provide mod packs for other features like for TAS's
 
 ## Instalation
-All these mods are for the minecraft version **1.12.2-forge-14.23.5.2854** ONLY. here is how to install forge.
+All these mods are for the minecraft version **1.12.2-forge-14.23.5.2854** ONLY (Unless Specified Otherwise). here is how to install forge.
 
 First step is to install [forge 1.12.2](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) (choose the latest recommended) and open the file.
 
