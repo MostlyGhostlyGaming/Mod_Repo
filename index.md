@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About Mods
 
-You can use the [editor on GitHub](https://github.com/MostlyGhostlyGaming/Mod_Repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello And Welcome, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is where we release modpacks and other mods to meet a specific purpose. For exmple, we released a mod pack for TAS and another for Hard Survival. Be on the lookout for new mod packs being released!
 
-### Markdown
+## Sponsors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Just like any other company, we have sponsors. All there channels are linked below:
 
-```markdown
-Syntax highlighted code block
+[GamerNation HQ](https://www.youtube.com/channel/UCYAR8uvGRjiMMB-LSYPkO0Q)
 
-# Header 1
-## Header 2
-### Header 3
+[Mostly Ghostly - Gaming (me)](https://www.youtube.com/MostlyGhostlyGamingOfficial)
 
-- Bulleted
-- List
+[LagonGaming](https://www.youtube.com/LagonGaming)
 
-1. Numbered
-2. List
+[TheWolfepup06](https://www.youtube.com/TheWolfepup06)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Discord
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To get extra help, join the discord server.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MostlyGhostlyGaming/Mod_Repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Discord server is currently not public or does not exist yet**
