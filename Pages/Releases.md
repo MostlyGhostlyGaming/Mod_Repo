@@ -69,6 +69,7 @@ Minimum Lighting: 0
 ### Game Settings
 
 **Activate These Commands:**
+
 /gamerule DoDaylightCycle false
 
 /time set 18000
