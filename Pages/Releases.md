@@ -13,7 +13,7 @@
 
 Here is where all our releases will be documented and linked. Any questions can be submitted in the [Issues](https://github.com/MostlyGhostlyGaming/Mods/issues) Tab.
 
-## [Survival Release v1.0](https://github.com/MostlyGhostlyGaming/Mods/releases/tag/v1.0)
+# [Survival Release v1.0](https://github.com/MostlyGhostlyGaming/Mods/releases/tag/v1.0)
 
 Description:
 
@@ -23,7 +23,7 @@ Today i present a combonation of modifacations that change the way minecraft wor
 
 Download Forge Here: [http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
-## [TAS Mod Release V1.5](https://github.com/MostlyGhostlyGaming/Mods/releases/tag/v1.5)
+# [TAS Mod Release V1.5](https://github.com/MostlyGhostlyGaming/Mods/releases/tag/v1.5)
 
 Description:
 
@@ -42,7 +42,7 @@ Tutorial Video: [https://www.youtube.com/watch?v=rR_g_3ATRUM&t=2s](https://www.y
 (NOTE: I do not own any of these files or the video mentioned. all credit goes to the original creators)
 (NOTE V2: DO NOT DOWNLOAD THE SOURCE CODE, download the rar file (you will need a zip extractor like WINRAR))
 
-## [Scary Survival Release](https://github.com/MostlyGhostlyGaming/Mod_Repo/releases/tag/Survival_Scary_Release)
+# [Scary Survival Release](https://github.com/MostlyGhostlyGaming/Mod_Repo/releases/tag/Survival_Scary_Release)
 
 Hello Again,
 
